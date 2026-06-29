@@ -10,7 +10,7 @@ export default function HomePage() {
         <div>
           <h1 className="text-2xl font-black text-stone-950 sm:text-3xl">Explore Filipino drinks by volume, ABV, and standard drinks.</h1>
           <p className="mt-2 max-w-3xl text-sm leading-6 text-stone-600">
-            Tagay Lab is an educational library and visual mixer. It uses local curated data and estimates only; it never predicts personal impairment.
+            SHATPuno is an educational library and visual mixer. It uses local curated data and estimates only; it never predicts personal impairment.
           </p>
         </div>
         <Link href="/mix" className="inline-flex h-11 items-center justify-center gap-2 rounded-md bg-stone-950 px-4 text-sm font-black text-white">

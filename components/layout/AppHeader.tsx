@@ -9,7 +9,7 @@ export function AppHeader() {
           <span className="grid size-9 shrink-0 place-items-center rounded-md bg-emerald-900 text-amber-200">
             <FlaskConical size={19} />
           </span>
-          <span className="truncate text-xl font-black tracking-normal text-stone-950">Tagay Lab</span>
+          <span className="truncate text-xl font-black tracking-normal text-stone-950">SHATPuno</span>
         </Link>
         <nav className="hidden items-center gap-1 sm:flex">
           <Link className="rounded-md px-3 py-2 text-sm font-semibold text-stone-700 hover:bg-stone-100" href="/drinks">

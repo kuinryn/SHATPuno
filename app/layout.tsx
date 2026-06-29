@@ -4,7 +4,7 @@ import { AppHeader } from "@/components/layout/AppHeader";
 import { BottomNav } from "@/components/layout/BottomNav";
 
 export const metadata: Metadata = {
-  title: "Tagay Lab",
+  title: "SHATPuno",
   description: "Explore Filipino drinks and simulate responsible recipe mixing.",
 };
 
