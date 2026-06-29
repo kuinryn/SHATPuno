@@ -1,0 +1,12 @@
+[
+  {
+    "id": "niaaa-standard-drink",
+    "label": "NIAAA U.S. standard drink basis",
+    "note": "Uses 14 grams of pure alcohol per U.S. standard drink for estimates."
+  },
+  {
+    "id": "local-curated-estimates",
+    "label": "Local curated recipe estimates",
+    "note": "Starter data uses typical ABV values when exact packaging or official source data is not present in the codebase."
+  }
+]

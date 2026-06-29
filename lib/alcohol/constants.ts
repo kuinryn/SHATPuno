@@ -1,0 +1,2 @@
+export const PURE_ALCOHOL_DENSITY_G_PER_ML = 0.789;
+export const US_STANDARD_DRINK_GRAMS = 14;

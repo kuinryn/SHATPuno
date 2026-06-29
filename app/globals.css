@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fbf7ef;
+  --foreground: #241f1a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background:
+    radial-gradient(circle at 15% 0%, rgba(246, 197, 96, 0.16), transparent 28rem),
+    linear-gradient(180deg, #fffaf2 0%, #f6efe4 48%, #edf6f1 100%);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.glass-shine {
+  background: linear-gradient(90deg, rgba(255,255,255,.5), rgba(255,255,255,.06) 34%, rgba(255,255,255,.2));
+}
